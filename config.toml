@@ -1,0 +1,42 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 6
+summarylength = 10
+title = "CEO Mitch | 米總財"
+theme = "blogge-hugo-theme"
+
+[menu]
+  [[menu.main]]
+    name = "首頁"
+    url= ""
+    weight= 1
+  [[menu.main]]
+    name = "關於米總"
+    url= "about"
+    weight= 2
+  [[menu.main]]
+    name = "聯絡"
+    url= "contact"
+    weight= 3
+
+[params]
+  summarylength = 80
+  logo = "images/logo.svg"
+  author = "Mitch"
+  authorThumb = "images/author.png"
+  authorAddress = "Lorem 142 Str., 2352, Ipsum, State, USA"
+  authorPhone = "+33-257634 534"
+  instaUsername = "mary_astor"
+  facebookUsername = "mary_astor"
+  twitterUsername = "mary_astor"
+  linkedinUsername = "mary_astor"
+  blogTitle = "筆記"
+  blogSubTitle = "瀏覽最新筆記"
+  trendingBlogIcon = "images/blog/icon.svg"
+  # Replace the third party URL/API with yours
+  # We're using formspree.io for form handling, paste your formspree url below
+  fabformURL  = "9AJk8ro"
+  googleMapAPI = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+
+[taxonomies]
+  tag = "tags"
