@@ -15,7 +15,7 @@ theme = "blogge-hugo-theme"
     url= "about"
     weight= 2
   [[menu.main]]
-    name = "聯絡"
+    name = "與我聯絡"
     url= "contact"
     weight= 3
 
