@@ -14,4 +14,4 @@ collections:
       - { label: 'Tags', name: 'tags', widget: 'string' }
       - { label: 'Read Time', name: 'readTime', widget: 'string' }
       - { label: 'Feature Image', name: 'featureImage', widget: 'image', choose_url: true }
-      - { label: 'Body', name: 'content', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
