@@ -1,4 +1,4 @@
-baseURL = "http://ceomitch.com"
+baseURL = "/"
 languageCode = "en-us"
 paginate = 6
 summarylength = 10
