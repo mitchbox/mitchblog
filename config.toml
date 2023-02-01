@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 paginate = 6
-summarylength = 80
+summarylength = 20
 title = "CEO Mitch | 米總財"
 theme = "blogge-hugo-theme"
 
