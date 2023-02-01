@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 paginate = 6
-summarylength = 10
+summarylength = 20
 title = "CEO Mitch | 米總財"
 theme = "blogge-hugo-theme"
 
@@ -20,7 +20,7 @@ theme = "blogge-hugo-theme"
     weight= 3
 
 [params]
-  summarylength = 80
+  summarylength = 20
   logo = "images/mitch_logo.png"
   author = "Mitch"
   authorThumb = "images/author.png"
