@@ -1,11 +1,11 @@
 ---
-  title: "My blog post"
-  date: 2021-01-13T18:10:50+06:00
-  tags: "news"
-  tranding: true
-  readTime: "1 min"
-  thumbnail: /images/blog/blog-thum-3.png
-  featureImage: /images/blog/feature-image-06.jpg
+title: My blog post
+date: 2021-01-13T18:10:50+06:00
+tranding: false
+tags: news
+readTime: 1 min
+thumbnail: /images/blog/blog-thum-3.png
+featureImage: /images/blog/feature-image-06.jpg
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos accusam et justo duo dolores ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.
