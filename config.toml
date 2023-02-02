@@ -30,8 +30,8 @@ theme = "blogge-hugo-theme"
   facebookUsername = "mitchbox.inc"
   twitterUsername = "mary_astor"
   linkedinUsername = "mitchbox"
-  blogTitle = "筆記"
-  blogSubTitle = "瀏覽最新筆記"
+  blogTitle = "所有文章"
+  blogSubTitle = ""
   trendingBlogIcon = "images/blog/icon.svg"
   # Replace the third party URL/API with yours
   # We're using formspree.io for form handling, paste your formspree url below
