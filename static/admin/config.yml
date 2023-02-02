@@ -10,11 +10,12 @@ collections:
     folder: 'content/posts'
     create: true
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Select', name: 'tranding', widget: 'boolean', required: false }
-      - { label: 'Tags', name: 'tags', widget: 'string' }
-      - { label: 'Read Time', name: 'readTime', widget: 'string' }
-      - { label: 'Thumnail', name: 'thumbnail', widget: 'image', choose_url: true }
-      - { label: 'Banner', name: 'featureImage', widget: 'image', choose_url: true }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: '文章標題', name: 'title', widget: 'string' }
+      - { label: '發佈時間', name: 'date', widget: 'datetime' }
+      - { label: '主打', name: 'featured', widget: 'boolean', required: false }
+      - { label: '精選', name: 'tranding', widget: 'boolean', required: false }
+      - { label: '標籤', name: 'tags', widget: 'string' }
+      - { label: '閱讀時間', name: 'readTime', widget: 'string' }
+      - { label: '縮圖', name: 'thumbnail', widget: 'image', choose_url: true }
+      - { label: '文章主圖', name: 'featureImage', widget: 'image', choose_url: true }
+      - { label: '內文', name: 'body', widget: 'markdown' }
